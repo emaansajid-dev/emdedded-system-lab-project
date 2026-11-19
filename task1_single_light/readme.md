@@ -9,7 +9,10 @@ Immediately after uploading, the Red LED turns on, then Red + Yellow,
 then Green, then Yellow, and repeats.
  If an LED doesn't light up, flip that LED around (its long and short legs were reversed).
 
- 
+ **State Machine**
+
+ <img width="606" height="320" alt="image" src="https://github.com/user-attachments/assets/fe6a6c6f-b254-48cf-8aab-44158f03fcd3" />
+
 
 **Class Diagram**
 
