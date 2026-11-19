@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="mXmdu6sC6zqtKl3Ae3l8">
+    <mxGraphModel dx="832" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GFlozJsT4C4_OsFdsNk--8" edge="1" parent="1" source="GFlozJsT4C4_OsFdsNk--1" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384.5" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":PedestrianButton" vertex="1">
+          <mxGeometry height="430" width="130" x="250" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":TrafficLight" vertex="1">
+          <mxGeometry height="430" width="100" x="550" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--12" edge="1" parent="1" source="GFlozJsT4C4_OsFdsNk--3" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="529.5" y="325.0000000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--23" edge="1" parent="1" source="GFlozJsT4C4_OsFdsNk--3" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--24" edge="1" parent="1" source="GFlozJsT4C4_OsFdsNk--3" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="369.9999999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--31" edge="1" parent="1" source="GFlozJsT4C4_OsFdsNk--3" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--41" edge="1" parent="1" source="GFlozJsT4C4_OsFdsNk--3" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":TrafficLightController" vertex="1">
+          <mxGeometry height="430" width="130" x="390" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--7" edge="1" parent="1" source="GFlozJsT4C4_OsFdsNk--6" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237.0000000000001" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="430" width="20" x="150" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value=":pressButton()" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="GFlozJsT4C4_OsFdsNk--11">
+          <mxGeometry relative="1" x="0.318" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="395" />
+              <mxPoint x="700" y="395" />
+            </Array>
+            <mxPoint x="454.5" y="395" as="sourcePoint" />
+            <mxPoint x="759.5" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;setLights(Yellow)" vertex="1">
+          <mxGeometry height="30" width="60" x="483" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--11" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="PedestrianLight" vertex="1">
+          <mxGeometry height="430" width="100" x="740" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="setLights(Green)" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="wait t10" vertex="1">
+          <mxGeometry height="30" width="50" x="650" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="wait t5" vertex="1">
+          <mxGeometry height="30" width="60" x="483" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="setLights(Red + Yellow)" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="wait t3" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="setLights(green)" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="setLights(Red)" vertex="1">
+          <mxGeometry height="30" width="59" x="500" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="setLights(Red)" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="isPressed () == true" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="GFlozJsT4C4_OsFdsNk--40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pedestrian" vertex="1">
+          <mxGeometry height="30" width="60" x="120" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
