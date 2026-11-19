@@ -1,5 +1,9 @@
 **Task 1**
-[task1.webm](https://github.com/user-attachments/assets/efc23ba7-e147-42a7-8fbc-7832f7a82fc8)
+
+
+https://github.com/user-attachments/assets/28af0899-dbd3-44eb-971c-0df05e1834ac
+
+
 
 
 Immediately after uploading, the Red LED turns on, then Red + Yellow, 
